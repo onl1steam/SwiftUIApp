@@ -1,2 +1,2 @@
 # SwiftUIApp
-SwiftUI Framework App
+SwiftUI Framework App Apple tutorial
